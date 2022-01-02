@@ -1,0 +1,10 @@
+C:\ProjeOtopark\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe.config
+C:\ProjeOtopark\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe
+C:\ProjeOtopark\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.pdb
+C:\ProjeOtopark\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.AssemblyReference.cache
+C:\ProjeOtopark\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.FormAdminAnasayfa.resources
+C:\ProjeOtopark\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.Properties.Resources.resources
+C:\ProjeOtopark\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.GenerateResource.cache
+C:\ProjeOtopark\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.CoreCompileInputs.cache
+C:\ProjeOtopark\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.exe
+C:\ProjeOtopark\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.pdb
