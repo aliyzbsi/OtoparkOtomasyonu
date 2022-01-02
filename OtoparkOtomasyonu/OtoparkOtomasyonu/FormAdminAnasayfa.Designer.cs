@@ -31,22 +31,15 @@ namespace OtoparkOtomasyonu
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAdminAnasayfa));
-            this.ımageList1 = new System.Windows.Forms.ImageList(this.components);
             this.button1 = new System.Windows.Forms.Button();
-            this.ımageList2 = new System.Windows.Forms.ImageList(this.components);
             this.labelbaslik = new System.Windows.Forms.Label();
             this.buttonGirisYAP = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.textBoxsifre = new System.Windows.Forms.TextBox();
             this.textBoxtc = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.ımageList2 = new System.Windows.Forms.ImageList(this.components);
             this.SuspendLayout();
-            // 
-            // ımageList1
-            // 
-            this.ımageList1.ColorDepth = System.Windows.Forms.ColorDepth.Depth32Bit;
-            this.ımageList1.ImageSize = new System.Drawing.Size(16, 16);
-            this.ımageList1.TransparentColor = System.Drawing.Color.Transparent;
             // 
             // button1
             // 
@@ -59,14 +52,6 @@ namespace OtoparkOtomasyonu
             this.button1.Size = new System.Drawing.Size(72, 64);
             this.button1.TabIndex = 60;
             this.button1.UseVisualStyleBackColor = false;
-            // 
-            // ımageList2
-            // 
-            this.ımageList2.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("ımageList2.ImageStream")));
-            this.ımageList2.TransparentColor = System.Drawing.Color.Transparent;
-            this.ımageList2.Images.SetKeyName(0, "admin.png");
-            this.ımageList2.Images.SetKeyName(1, "operator.png");
-            this.ımageList2.Images.SetKeyName(2, "previous.png");
             // 
             // labelbaslik
             // 
@@ -136,6 +121,14 @@ namespace OtoparkOtomasyonu
             this.label1.TabIndex = 54;
             this.label1.Text = "TC NO";
             // 
+            // ımageList2
+            // 
+            this.ımageList2.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("ımageList2.ImageStream")));
+            this.ımageList2.TransparentColor = System.Drawing.Color.Transparent;
+            this.ımageList2.Images.SetKeyName(0, "admin.png");
+            this.ımageList2.Images.SetKeyName(1, "operator.png");
+            this.ımageList2.Images.SetKeyName(2, "previous.png");
+            // 
             // FormAdminAnasayfa
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -158,15 +151,14 @@ namespace OtoparkOtomasyonu
         }
 
         #endregion
-        private System.Windows.Forms.ImageList ımageList1;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ImageList ımageList2;
         private System.Windows.Forms.Label labelbaslik;
         private System.Windows.Forms.Button buttonGirisYAP;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox textBoxsifre;
         private System.Windows.Forms.TextBox textBoxtc;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ImageList ımageList2;
     }
 }
 
